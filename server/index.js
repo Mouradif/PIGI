@@ -8,7 +8,7 @@ var io = sio.listen(server);
 var bdd = mysql.createConnection({
 	host	: 'localhost',
 	user	: 'root',
-	password: 'klapaucius',
+	password: 'root',
 	database: 'postit'
 });
 
