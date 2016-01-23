@@ -1,0 +1,27 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Challenge Socket.IO by OnePoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChallengeOnePoint/challenge-C3-25.git"
+  },
+  "keywords": [
+    "OnePointJS"
+  ],
+  "author": "Mouradif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChallengeOnePoint/challenge-C3-25/issues"
+  },
+  "homepage": "https://github.com/ChallengeOnePoint/challenge-C3-25#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mysql": "^2.10.2",
+    "socket.io": "^1.4.4"
+  }
+}
